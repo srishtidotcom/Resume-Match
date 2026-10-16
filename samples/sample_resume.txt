@@ -1,0 +1,20 @@
+Alex Morgan
+alex.morgan@example.com | +1 (415) 555-0123
+
+Summary
+Software engineer building Python APIs and data pipelines.
+
+Skills
+Python, FastAPI, PostgreSQL, Docker, AWS, Git, Pandas, scikit-learn
+
+Experience
+Software Engineer at Acme Labs | Jan 2022 - Dec 2024
+- Built FastAPI services backed by PostgreSQL.
+- Deployed Docker containers on AWS.
+
+Data Analyst at Northstar Analytics | Jun 2020 - Dec 2021
+- Automated reporting with Python and Pandas.
+
+Education
+State University
+B.S. in Computer Science, 2020

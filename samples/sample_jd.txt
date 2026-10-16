@@ -1,0 +1,3 @@
+We are seeking a software engineer with 5 years of experience and skills in
+Python, FastAPI, PostgreSQL, Docker, Kubernetes, AWS, and Terraform.
+Experience with CI/CD is a plus.
